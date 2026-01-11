@@ -63,12 +63,6 @@ I have published several papers in high-impact nursing and medical journals, inc
 - **My Role**: Developing prevention measures for pressure injury based on evidence-based nursing
 - **Publication**: Completing a Chinese paper as the first author (under review)
 
-**Construction and Application of an Intelligent Recommendation System for Care Plans for Dementia-Afflicted Elderly Based on Knowledge Graphs**  
-*Jan 2023 - Dec 2026*
-- **PI**: Prof. Zhiwen Wang
-- **Funding**: The National Natural Science Foundation of China
-- **My Role**: Collecting experience feedback from dementia caregivers for system usability evaluation
-- **Publication**: Completing a SCI paper as the first author (under review)
 
 ## Completed Projects
 
