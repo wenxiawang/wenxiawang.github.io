@@ -1,0 +1,41 @@
+title: "Wenxia Wang - PhD Candidate in Nursing"
+description: "Personal academic website of Wenxia Wang, PhD candidate in Nursing at Peking University. Research in elderly care, multimodal data analysis, and intelligent healthcare systems."
+url: "https://wenxia.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+# Include files
+include:
+  - _pages
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
+
+# Social media
+author: Wenxia Wang
+email: 2311110242@bjmu.edu.cn
+orcid: 0000-0003-0007-3333
+
+# Academic info
+institution: Peking University School of Nursing
+position: PhD Candidate
+field: Nursing
