@@ -136,6 +136,9 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  load_paths:
+    - _sass
+    - node_modules
 
 
 # Outputting
