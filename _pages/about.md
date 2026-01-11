@@ -28,6 +28,7 @@ My research interests include:
 
 I have published several papers in high-impact nursing and medical journals, including *Journal of Clinical Nursing* (Q1), *Journal of Medical Internet Research* (Q1), and *International Journal of Nursing Studies* (Q1).
 
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 
@@ -48,6 +49,8 @@ I have published several papers in high-impact nursing and medical journals, inc
 - Meng, X., Sun, J., Du, Z., **Wang, W.**, … Wang, S. (2025). Comparisons of nonpharmacological caregiver interventions for behavioural and psychological symptoms of dementia: A systematic review and network meta-analysis. *International Journal of Nursing Studies*, 170, 105153. [https://doi.org/10.1016/j.ijnurstu.2025.105153](https://doi.org/10.1016/j.ijnurstu.2025.105153) **(IF=7.1; Q1)**
 
 - Wang, X., Han, S., **Wang, W.**, … Wang, Z. (2025). The Application of Voice Biomarkers in Frailty: A Scoping Review. *Journal of Voice*; official journal of the Voice Foundation. [https://doi.org/10.1016/j.jvoice.2024.12.029](https://doi.org/10.1016/j.jvoice.2024.12.029) **(IF=2.4; Q1)**
+
+<span class='anchor' id='-research-experience'></span>
 
 # 🔬 Research Experience
 
@@ -73,11 +76,15 @@ I have published several papers in high-impact nursing and medical journals, inc
 - **My Role**: Formulating a plan for the physical activities of the elderly based on evidence-based nursing
 - **Publication**: Published a Chinese paper (doi: 10.3761/j.issn.0254-1769.2025.03.001)
 
+<span class='anchor' id='-honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2023* The National Postgraduate Scholarship of Jilin University (Highest Postgraduate Honors)
 - *2023* Outstanding Graduate of Jilin University
 - *2022* Outstanding Social Practice Award of Jilin University
 - *2021* The Third-Class Scholarship of Jilin University
+
+<span class='anchor' id='-education'></span>
 
 # 📖 Education
 
@@ -110,6 +117,8 @@ I have published several papers in high-impact nursing and medical journals, inc
   </div>
 </div>
 
+<span class='anchor' id='-academic-conferences'></span>
+
 # 💬 Academic Conferences
 - *2024* World Young Scientist Summit 2024 & The 4th Postgraduate Nursing Research Forum (Oral presentation)
 - *2024* The 14th Hong Kong International Nursing Forum · 2024 Sino-US Nursing Forum (Poster Presentation)
@@ -119,6 +128,8 @@ I have published several papers in high-impact nursing and medical journals, inc
 # 🏃 Interests
 - Strength training
 - Long distance running (Completed over ten half-marathons, won third prize in a team half-marathon event)
+
+<span class='anchor' id='-contact'></span>
 
 # 📫 Contact
 - **Email**: 2311110242@bjmu.edu.cn
